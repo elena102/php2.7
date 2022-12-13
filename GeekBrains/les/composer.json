@@ -1,0 +1,14 @@
+{
+    "name": "mrako/les",
+    "autoload": {
+        "psr-4": {
+            "Mrako\\Les\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elena"
+        }
+    ],
+    "require": {}
+}
